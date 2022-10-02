@@ -1,3 +1,5 @@
+// Nie działa do końca jak należy, ponieważ nie usuwa numerów o tej samej ulicy. 
+
 import java.util.*;
 
 public class Zadanie_5 {
